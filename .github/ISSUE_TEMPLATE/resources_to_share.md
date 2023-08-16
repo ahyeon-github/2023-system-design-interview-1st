@@ -1,5 +1,5 @@
 ---
-name: 🚀 Feature request
+name: 🚀 Resources to Share
 about: Suggest an idea for this project 🏖
 title: ""
 labels: enhancement
